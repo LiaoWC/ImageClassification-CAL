@@ -1,6 +1,6 @@
 # Training Outputs
 
-Because of the usage limit of Google Colab, my training is split into 3 parts, i.e. I click "train" three times. This may affluence scheduler or other settings.
+Because of the usage limit of Google Colab, my training is split into 3 parts, i.e. I click "train" three times. This may influence scheduler or other settings.
 
 ### The first time
 
