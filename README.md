@@ -10,7 +10,10 @@ NYCU-2021Fall-VRDL-HW1
 - [Reference](#Reference)
 
 <img src="img/attention_example.png" alt="attention_example.png" width="300" height="300">
-Sources of original images: [1](https://unsplash.com/photos/LrT4NeshrtI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink), [2](https://unsplash.com/photos/RLLR0oRz16Y?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+Sources of original images in the grid:
+
+[1](https://unsplash.com/photos/LrT4NeshrtI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+[2](https://unsplash.com/photos/RLLR0oRz16Y?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
 
 
 
