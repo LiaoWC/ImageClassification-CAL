@@ -9,6 +9,11 @@ NYCU-2021Fall-VRDL-HW1
 - [Pretrained-model](#Pretrained-model)
 - [Reference](#Reference)
 
+<img src="img/attention_example.png" alt="attention_example.png" width="300" height="300">
+Sources of original images: [1](https://unsplash.com/photos/LrT4NeshrtI?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink), [2](https://unsplash.com/photos/RLLR0oRz16Y?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink)
+
+
+
 ## Introduction
 
 The goal of this project is to do bird image classification.
@@ -159,5 +164,4 @@ Its training outputs: [here](training_outputs.md)
 - [https://www.kaggle.com/deepbear/pytorch-car-classifier-90-accuracy](https://www.kaggle.com/deepbear/pytorch-car-classifier-90-accuracy)
 - Identity: [https://discuss.pytorch.org/t/how-to-delete-layer-in-pretrained-model/17648](https://discuss.pytorch.org/t/how-to-delete-layer-in-pretrained-model/17648)
 
-
-
+## Cover image sources
