@@ -1,0 +1,8 @@
+testing_images.zip
+training_images.zip
+testing_images/
+training_images/
+classes.txt
+training_labels.txt
+.idea/
+testing_img_order.txt
