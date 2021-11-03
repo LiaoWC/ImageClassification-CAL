@@ -6,3 +6,4 @@ classes.txt
 training_labels.txt
 .idea/
 testing_img_order.txt
+*.pt
