@@ -2,7 +2,7 @@
 
 NYCU-2021Fall-VRDL-HW1
 
-- [Introduciton](#Introduciton)
+- [Introduction](#Introduction)
 - [Methodology](#Methodology)
 - [How to train](#Train)
 - [How to inference](#Inference)
@@ -121,7 +121,7 @@ Before running, you should modify the value of constant in inference.py first.
 
 It will produce a answer.txt in the PREDICT_SAVE_DIR.
 
-## Pre-trained Model
+## Pretrained Model
 
 File on Google Drive: [link](https://drive.google.com/file/d/1EIOhpH9T6hTm1jLD32w-UtycMIx6KyF9/view?usp=sharing)
 
